@@ -10,6 +10,10 @@
             "email": "moh.khoirul.anaam@gmail.com"
         }
     ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "moonlandsoft/helpers": "*"
+    },
     "autoload": {
         "psr-4": {
             "moonland\\tinymce\\": ""
