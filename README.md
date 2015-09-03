@@ -2,6 +2,8 @@ moonlandsoft/yii2-tinymce
 =========================
 The TinyMCE Extension for yii framework
 
+[![Latest Stable Version](https://poser.pugx.org/moonlandsoft/yii2-tinymce/v/stable)](https://packagist.org/packages/moonlandsoft/yii2-tinymce) [![Total Downloads](https://poser.pugx.org/moonlandsoft/yii2-tinymce/downloads)](https://packagist.org/packages/moonlandsoft/yii2-tinymce) [![Latest Unstable Version](https://poser.pugx.org/moonlandsoft/yii2-tinymce/v/unstable)](https://packagist.org/packages/moonlandsoft/yii2-tinymce) [![License](https://poser.pugx.org/moonlandsoft/yii2-tinymce/license)](https://packagist.org/packages/moonlandsoft/yii2-tinymce)
+
 Installation
 ------------
 
